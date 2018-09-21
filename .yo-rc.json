@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "injio-servicedirectory",
+    "libraryId": "9648ebee-acd5-4476-ab0b-c6a31b35c782",
+    "environment": "spo"
+  }
+}

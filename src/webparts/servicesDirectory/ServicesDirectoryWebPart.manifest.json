@@ -1,0 +1,23 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "02d43d6f-9d9f-4ade-8fdb-4c07ed2b038d",
+  "alias": "ServicesDirectoryWebPart",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+
+  "requiresCustomScript": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Other" },
+    "title": { "default": "Services Directory" },
+    "description": { "default": "Services Directory" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Services Directory"
+    }
+  }]
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "injio-servicedirectory-client-side-solution",
+    "id": "9648ebee-acd5-4476-ab0b-c6a31b35c782",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/injio-servicedirectory.sppkg"
+  }
+}
